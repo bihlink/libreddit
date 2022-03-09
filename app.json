@@ -1,6 +1,6 @@
 {
-  "name": "Libreddit",
-  "description": "Private front-end for Reddit",
+  "name": "Upvo",
+  "description": "Upvo private front-end for Reddit",
   "buildpacks": [
     {
       "url": "https://github.com/emk/heroku-buildpack-rust"
