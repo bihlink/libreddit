@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/gwnlquih/upvo/reddit/
+    - /bin/cp * $DEPLOYPATH
